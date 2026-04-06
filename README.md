@@ -2,9 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Priyal Sarda
 ====================================================================================================================================
 
-<div align="center">
-  <img src="https://media.istockphoto.com/id/1200460428/vector/young-long-red-haired-student-girl-in-glasses-headphones-and-blue-t-shirt-sitting-at-the.jpg?s=1024x1024&w=is&k=20&c=jfqEQekz-8---fqbXeNMNBq32qzbdjiGiqtm9tfKdJI=" width="500px"/>
-</div>
 
 Student-Entrepreneur | AI & EdT ech Innovator
 ---------------------------------------------
